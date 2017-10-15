@@ -6,6 +6,3 @@ aaaaa
 bbbbb
 My stupid boss still prefers SVN
 My stupid boss still prefers SVN
-my name is cfx
-my name is not cfx
-my name is aaaa
