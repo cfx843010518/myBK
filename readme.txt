@@ -1,12 +1,4 @@
 Git is a distributed version control system.
 Git is free software
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-aaaaa
-bbbbb
-My stupid boss still prefers SVN
-Creating a new branch is quick and simple
-my name is cfx
-my name is aaaa an
-hety  i am is proniter
+
 
