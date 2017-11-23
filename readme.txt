@@ -2,6 +2,7 @@ Git is a distributed version control system.
 Git is free software
 my name is cjh
 my name is cfx
+my name is ssssss
 
 my name is chenjinhua
 
